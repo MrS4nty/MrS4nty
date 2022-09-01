@@ -1,7 +1,7 @@
 # Hi I'm MrS4nty 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
+<img hight="250" width="500" alt="GIF" align="center" src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 </div>
 
 </br>
@@ -61,26 +61,17 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to communicate with me about anything, either for any questions or just to hang out and talk or if you want to play together, just send me a message, see you!!.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
+<a href="https://www.instagram.com/MrS4nty/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/instagram.png" />
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+<a href="https://www.Twitter.com/MrS4nty">
+  <img align="left" alt="Twitter" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/twitter.png" />
 </a>
  </p>
- 
-
 </br>
 </br>
 </br>
@@ -91,7 +82,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=MrS4nty&&show_icons=true&theme=rose_pine"/>
   </a>
   </p>
